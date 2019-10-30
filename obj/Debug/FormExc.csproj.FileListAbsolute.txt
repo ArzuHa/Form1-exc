@@ -1,0 +1,10 @@
+C:\Users\ArzuMh\source\repos\FormExc\FormExc\bin\Debug\FormExc.exe.config
+C:\Users\ArzuMh\source\repos\FormExc\FormExc\bin\Debug\FormExc.exe
+C:\Users\ArzuMh\source\repos\FormExc\FormExc\bin\Debug\FormExc.pdb
+C:\Users\ArzuMh\source\repos\FormExc\FormExc\obj\Debug\FormExc.csprojAssemblyReference.cache
+C:\Users\ArzuMh\source\repos\FormExc\FormExc\obj\Debug\FormExc.Form1.resources
+C:\Users\ArzuMh\source\repos\FormExc\FormExc\obj\Debug\FormExc.Properties.Resources.resources
+C:\Users\ArzuMh\source\repos\FormExc\FormExc\obj\Debug\FormExc.csproj.GenerateResource.cache
+C:\Users\ArzuMh\source\repos\FormExc\FormExc\obj\Debug\FormExc.csproj.CoreCompileInputs.cache
+C:\Users\ArzuMh\source\repos\FormExc\FormExc\obj\Debug\FormExc.exe
+C:\Users\ArzuMh\source\repos\FormExc\FormExc\obj\Debug\FormExc.pdb
